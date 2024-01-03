@@ -3,7 +3,7 @@
 **Name:** Icaro Boaventura  
  **Week:** 3  
  **Project Nr.:** 2  
- **Project Name:** Bean Scene Landingpage 
+ **Project Name:** Bean Scene Landingpage  
  **Project goal:** to put into practice what I learned in 3 weeks of the bootcamp.  
 `Topics like:`  
 - Semantic HTML
