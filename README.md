@@ -4,6 +4,7 @@
  **Week:** 3  
  **Project Nr.:** 2  
  **Project Name:** Bean Scene Landingpage  
+ **Project Link:** https://icaroboaventura.github.io/Project-2-Bean-Scene-LandingPage-SuperCode/  
  **Project goal:** to put into practice what I learned in 3 weeks of the bootcamp.  
 `Topics like:`  
 - Semantic HTML
